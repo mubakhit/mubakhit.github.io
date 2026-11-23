@@ -35,11 +35,12 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Muhammad Bakhit
-  email: example@domain.com # change to your email address
+  email: # add your email here if you want the email icon
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mu_bakhit # change to your twitter homepage
     - https://github.com/mubakhit # change to your github homepage
+    - https://www.linkedin.com/in/mubakhit
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
