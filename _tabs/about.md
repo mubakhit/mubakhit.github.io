@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Muhammad Bakhit**, a network and security engineer based in Saudi Arabia.
+Hi, I'm **Muhammad Bakhit**, a CyberSecurity Engineer.
 
-My background is in network engineering: remote communications for field equipment, network security, network traffic analysis, and vulnerability protection. My main passion is offensive security, and this blog is where I document what I learn along the way.
+I’m a cybersecurity specializing in penetration testing and network security, with hands-on experience across web application attacks, network exploitation, digital forensics, and threat hunting.
 
 ## What you'll find here
 
@@ -18,10 +18,10 @@ My background is in network engineering: remote communications for field equipme
 
 - eCPPTv2, eWAPTX, eJPT, eCTHP
 - CompTIA Security+
-- Cisco CyberOps Associate
+
 
 ## Education
 
-BSc in Computer and Network Engineering, Jazan University.
+BSc in Computer and Network Engineering.
 
 Feel free to reach out through the links in the sidebar.
