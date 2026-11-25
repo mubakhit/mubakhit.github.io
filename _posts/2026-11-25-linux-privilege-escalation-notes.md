@@ -4,7 +4,7 @@ date: 2026-11-25 10:00:00 +0300
 categories: [Notes, Privilege Escalation]
 tags: [linux, privilege-escalation, suid, cron, capabilities, nfs, ld-preload, docker, ctr, logstash, oscp]
 image:
-  path: /assets/img/posts/priv-esc/01.png
+  path: /assets/img/posts/priv-esc/01.jpeg
   alt: "SUDO Nijna"
 pin: true
 toc: true
